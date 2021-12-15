@@ -1,4 +1,4 @@
-const INPUT_TEST: &str = "";
+pub const INPUT_EXAMPLE: &str = "";
 
 
-const INPUT: &str = "";
+pub const INPUT: &str = "";
