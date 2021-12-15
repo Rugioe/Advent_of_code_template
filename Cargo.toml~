@@ -1,5 +1,5 @@
 [package]
-name = "{{crate_name}}"
+name = "a02"
 version = "0.1.0"
 authors = ["Rugioe <julian.kemp@outlook.de>"]
 edition = "2018"
