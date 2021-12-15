@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 // Modules
 mod constants;
 use constants::*;
